@@ -1,0 +1,26 @@
+.border1{
+    border: 5px solid black;
+    margin-top: 30px;
+    padding: 100px;
+    width: 200px;
+    margin: auto;
+}
+.border2 , .border3{
+    border: 5px solid black;
+    padding: inherit;
+    background-color: antiquewhite;
+}
+.border3{
+    margin-top: 124px;
+}
+.border4{
+    border: 5px solid black;
+    padding:50px;
+    margin: auto;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.border4 p {
+    font-size: 24;
+}
